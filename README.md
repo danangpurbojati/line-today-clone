@@ -1,3 +1,6 @@
+# Hosting version
+firebase hosting [click here](https://clone-line-today-danang.web.app/TOP)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
